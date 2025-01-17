@@ -558,8 +558,8 @@ RectTransform:
   m_Children:
   - {fileID: 1019702908}
   - {fileID: 1412382774}
-  - {fileID: 1456292764}
   - {fileID: 561227728}
+  - {fileID: 1456292764}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -708,7 +708,7 @@ MonoBehaviour:
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 0
-  m_FillAmount: 1
+  m_FillAmount: 0
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
@@ -1155,7 +1155,7 @@ MonoBehaviour:
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 0
-  m_FillAmount: 1
+  m_FillAmount: 0
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
@@ -1412,7 +1412,7 @@ MonoBehaviour:
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 0
-  m_FillAmount: 1
+  m_FillAmount: 0
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
@@ -2061,5 +2061,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 1125124061}
   - {fileID: 2033938410}
-  - {fileID: 825909530}
   - {fileID: 1265167215}
+  - {fileID: 825909530}
